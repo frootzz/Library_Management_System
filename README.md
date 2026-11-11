@@ -110,6 +110,6 @@ This project provided practical exposure to:
 
 Electronics and Communication Engineering
 
-GitHub : https//github.com/frootzz
+GitHub : https://github.com/frootzz
 
 Project Domain: C Programming | Data Structures | Application Development
